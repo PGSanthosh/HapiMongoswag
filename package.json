@@ -1,0 +1,16 @@
+{
+  "name": "hapimongo",
+  "version": "1.0.0",
+  "description": "test for mongo connection",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^16.1.8",
+    "hapi": "^16.4.3",
+    "mongodb": "^3.3.5"
+  }
+}
